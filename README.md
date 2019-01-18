@@ -1,7 +1,7 @@
 # Tinder Clone / Flutter
 
 ## Overview
-![](https://i.hizliresim.com/zj3jD7.gif)
+![](https://media.giphy.com/media/2YhE34VZAWTcQYONLs/giphy.gif)
 This project demonstrates the 2 main scenes of Tinder (openning and the home). It is made to show Flutter's flexibility and smoothness.
 
 ## Sources
